@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 /*
  * Preparing for this tutorial:
  * 1. Install Library DFRobotDFPlayerMini by DFRobot in library manager.

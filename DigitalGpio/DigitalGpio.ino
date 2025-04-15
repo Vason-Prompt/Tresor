@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 buttonPin = 2
 lightPin = LED_BUILTIN
 

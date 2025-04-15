@@ -1,9 +1,3 @@
-#include "arduino_secrets.h"
-
-/*
-
-*/
-
 void setup() {
   //No need to set pin mode for analog
   Serial.begin(9600);
